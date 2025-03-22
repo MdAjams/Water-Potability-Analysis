@@ -3,7 +3,8 @@
 ## Project Overview
 
 This project aims to analyze the Water Potability dataset to explore water quality and identify factors affecting potability. The analysis involves data cleaning, exploratory data analysis (EDA), SQL integration, and Power BI visualization to generate actionable insights.
-
+# Project Represent Video 
+   https://drive.google.com/file/d/1UNF97bUWjSSnJ7rky27iae1yp_pd9nkE/view?usp=sharing
 ## Objective
 
 To analyze the Water Potability dataset and derive meaningful insights into the factors that affect water potability. The project covers:
